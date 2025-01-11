@@ -64,7 +64,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=koyeb&name=filesharingbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](mongodb+srv://AniReal123:AniReal123@AniReal123.hetez.mongodb.net/?retrywrite=true&w=majority&appName=AniReal123)
 
 
 #### Deploy in your VPS
